@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sports news and information App</string>
+    <string name="action_settings">Settings</string>
+    <!--Names of the top Tab Layout -->
+    <string name="athletes">Athletes</string>
+    <string name="sports">Sports</string>
+    <string name="news">News</string>
+    <string name="events">Events</string>
+    <string name="historical_archives">Historical Archives</string>
+    <string name="about_me">About Me</string>
+    <string name="newsShortcut">News</string>
+    <string name="eventsSortcut">Events</string>
+    <string name="Sortcut">Historical Archives</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_sport_type">Select Sport Type</string>
+    <string name="sport_name">Sport Name</string>
+    <!--Names of the shortcut Tab Layout -->
+
+</resources>
